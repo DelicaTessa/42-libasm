@@ -23,6 +23,7 @@
 > Run the following commands to test:
 
 ```shell
+$ brew install nasm
 $ git clone https://github.com/DelicaTessa/42-libasm.git
 $ cd 42-libasm
 $ make 
