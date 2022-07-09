@@ -1,0 +1,8 @@
+An assembly (or assembler) language, often abbreviated asm,
+is a low-level programminglanguage for a computer, or other programmable device, 
+in which there is a very strong(but often not one-to-one) correspondence between 
+the language and the architecture’smachine code instructions. 
+Each assembly language is specific to a particular computerarchitecture. 
+In contrast, most high-level programming languages are generally portableacross multiple architectures 
+but require interpreting or compiling. 
+Assembly languagem ay also be called symbolic machine code,
