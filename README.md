@@ -27,6 +27,6 @@ $ brew install nasm
 $ git clone https://github.com/DelicaTessa/42-libasm.git
 $ cd 42-libasm
 $ make 
-$ gcc main.c libasm
+$ gcc main.c libasm.a
 $ ./a.out
 ```
