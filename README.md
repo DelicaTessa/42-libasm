@@ -1,5 +1,4 @@
 # libasm
-[![tclement's 42 libasm Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/2087518)](https://github.com/JaeSeoKim/badge42)<br>
 ***The aim of this project is to get familiar with assembly language.***
 
 ## Technical considerations
